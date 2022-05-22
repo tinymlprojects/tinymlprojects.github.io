@@ -1,4 +1,4 @@
-baseURL = 'https://tinymlprojects.com/'
+baseURL = 'https://www.tinymlprojects.com/'
 languageCode = 'en-us'
 title = 'tinymlprojects'
 theme = "hugo-winston-theme"
